@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Scrap</string>
+    <string name="action_settings">Settings</string>
+    <string name="eiffel">Eiffel Tower</string>
+    <string name="freedom">Freedom Tower</string>
+    <string name="empire">Empire State</string>
+    <string name="white_house">The White House</string>
+
+</resources>

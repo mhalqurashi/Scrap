@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="eiffel">La Torre Eiffel</string>
+    <string name="freedom">Torre de la Libertad</string>
+    <string name="empire">Edificio Empire State</string>
+    <string name="white_house">La Casa Blanca</string>
+
+</resources>
